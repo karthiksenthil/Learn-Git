@@ -7,4 +7,4 @@ The Merge tool allows you to merge contents from different files.
 6. Click on any colored band in the right or on the centre pane to merge it
    into your file.
 7. Click 'DONE' to save the changes into your file.
-8. Add "Yaaay! you finished the course screen"
+8. Add "Yay! you finished the course screen"
